@@ -8,7 +8,7 @@ The model predicts whether an object detected by SONAR signals is a **Rock** or 
 ---
 
 ## 🚀 Live Demo
-👉 (Streamlit deployment link will be added here)
+👉 https://rock-or-mine-prediction-app-czzlhxxfulcrjy9doftbxj.streamlit.app/
 
 ---
 
